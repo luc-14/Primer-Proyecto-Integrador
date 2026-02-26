@@ -164,4 +164,8 @@ generar_escenario()
 5. Presiona el botón Run Script.
 <img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/da72c9ba-dee4-45b1-a60d-b231b1b0cefd" />
 
-#Resultado
+#Resultad
+
+https://github.com/user-attachments/assets/fd49f2a6-f8bd-45a7-9cd2-47a10ec73666
+
+o
