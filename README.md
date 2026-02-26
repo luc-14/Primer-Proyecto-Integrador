@@ -168,4 +168,4 @@ generar_escenario()
 
 https://github.com/user-attachments/assets/fd49f2a6-f8bd-45a7-9cd2-47a10ec73666
 
-o
+
